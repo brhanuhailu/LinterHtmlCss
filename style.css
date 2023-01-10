@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+}
+.box1{background-color: aliceblue;}
+.box2{background-color: beige;}
+.box3{background-color: blue;}
+.box4{background-color: brown;}
+.box5{background-color: yellow;}
